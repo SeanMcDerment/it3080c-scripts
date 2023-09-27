@@ -1,3 +1,4 @@
+#Write a ‘guess the number game’ where a random number is generated and the user must guess the number. The program says if their number is too high or too low until the right answer is guessed.
 import random
 
 max_number = 100
