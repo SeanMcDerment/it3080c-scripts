@@ -10,3 +10,8 @@ TO PLAY
 
 TIPS
 wasd for movement
+
+
+Credit 
+
+Thank you to TokyoEdtech for the help and guidance
